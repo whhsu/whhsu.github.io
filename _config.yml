@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wei-Heng Hsu"
 title_separator          : "-"
 name                     : &name "Wei-Heng Hsu"
-description              : &description "Ph.D. student at University of Minnesota"
+description              : &description "Ph.D. candidate at University of Minnesota"
 url                      : https://whhsu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "whhsu.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Wei-Heng Hsu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. candidate at University of Minnesota"
   location         : "Minneapolis. MN"
   employer         :
   googlescholar    : 
