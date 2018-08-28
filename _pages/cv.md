@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in National Taiwan University (NTU), Taipei, Taiwan, 2012
+* B.S. in National Taiwan University, Taipei, Taiwan, 2012
 * M.S. in University of Michigan, Ann Arbor, MI, 2015
 * Ph.D in University of Minnesota, Minneapolis, MN, 2020 (expected)
 
