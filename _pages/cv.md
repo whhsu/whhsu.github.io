@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in National Taiwan University, Taipei, Taiwan, 2012
-* M.S. in University of Michigan, Ann Arbor, MI, 2015
-* Ph.D in University of Minnesota, Minneapolis, MN, 2020 (expected)
+* B.S. in Electrical Engineering, National Taiwan University, Taipei, Taiwan, 2012
+* M.S. in Electrical Engineering, University of Michigan, Ann Arbor, MI, 2015
+* Ph.D in Electrical and Computer Engineering, University of Minnesota, Minneapolis, MN, 2020 (expected)
 
 Work experience
 ======
