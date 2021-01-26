@@ -22,6 +22,5 @@ Work experience
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Fall 2016
+  * EE 2001 - Introduction to Circuits and Electronics
